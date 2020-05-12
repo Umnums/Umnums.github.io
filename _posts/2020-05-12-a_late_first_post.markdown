@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A late first post"
-date:       2020-05-12 04:42:59 +0000
+date:       2020-05-12 00:42:59 -0400
 permalink:  a_late_first_post
 ---
 
